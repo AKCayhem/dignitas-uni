@@ -1,0 +1,5 @@
+name: university_assistant
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^3.0.0
